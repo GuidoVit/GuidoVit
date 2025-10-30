@@ -27,4 +27,4 @@ Hey, My name is Vitor Guido Kallas, I'm 20 years old! I'm a student at **FIAP** 
 **E-mail:** vitorkallas2005@gmail,com
  
 ----
-<img src="https://raw.githubusercontent.com/ArthurCCordeiro/ArthurCCordeiro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GuidoVit/GuidoVit/output/snake.svg" alt="Snake animation" />
