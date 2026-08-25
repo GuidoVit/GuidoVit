@@ -4,27 +4,28 @@ Hey, My name is Vitor Guido Kallas, I'm 20 years old! I'm a student at **FIAP** 
  
 ## Experienced Programming languages:
  
-![Python](https://i.imgur.com/M44Q7JP.png)
-![TypeScript](https://i.imgur.com/K4b1pTC.png)
-![Java](https://i.imgur.com/Eks0xFG.png)
-![VHDL](https://i.imgur.com/fgeGJg9.png)
-![Oracle](https://i.imgur.com/XGBgm5E.png)
- 
-<div align="center" >
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"/> 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" height="65" /> 
+  <img src="https://i.imgur.com/K4b1pTC.png" alt="TypeScript" height="65" /> 
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" height="65" />
+   <img src="https://i.imgur.com/XGBgm5E.png" alt="Oracle_Database" height="65" />
 </div>
  
 ## Experienced Programs
+<div align="center">
+  <img src="https://i.imgur.com/K1SjDnz.png" alt="VSCode" height="65" />  
+  <img src="https://i.imgur.com/71OgOJh.png" alt="Oracle_SQL_Developer" height="65" /> 
+  <img src="https://i.imgur.com/t6TTgU5.png" alt="Quartus_Prime" height="65" /> 
  
-![VSCode](https://i.imgur.com/K1SjDnz.png)
-![InteliJ](https://i.imgur.com/rGiSmkn.png)
-![OracleSQL](https://i.imgur.com/71OgOJh.png)
-![Quartus](https://i.imgur.com/t6TTgU5.png)
+</div>
+
+## Contacts
  
-## W
- 
-**E-mail:** vitorkallas2005@gmail,com
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vitorkallas2005@gmail.com)
+
+</div>
  
 ----
 <img src="https://raw.githubusercontent.com/GuidoVit/GuidoVit/output/snake.svg" alt="Snake animation" />
